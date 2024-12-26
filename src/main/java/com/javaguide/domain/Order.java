@@ -1,7 +1,7 @@
 package com.javaguide.domain;
 
 import com.javaguide.application.contract.order.CreateOrderLineCmd;
-import com.javaguide.application.order.CreateOrderCmd;
+import com.javaguide.application.order.createOrder.CreateOrderCmd;
 import lombok.Getter;
 import lombok.Setter;
 

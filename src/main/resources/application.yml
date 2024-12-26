@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: SpringBoot + DDD + CQRS
+
+  data:
+    mongodb:
+      uri: mongodb://root:root@localhost:27017/springboot?authSource=admin
